@@ -1,0 +1,24 @@
+.list__tags__box {
+  margin: 30px 30px;
+  font-size: 23px;
+  margin-bottom: 70%;
+}
+
+.list__tags__title {
+  margin-bottom: 30px;
+}
+
+.tags__item {
+  display: block;
+  margin-bottom: 10px;
+  transition-duration: .3s;
+}
+
+.tags__item a {
+  color: #000;
+  transition-duration: .3s;
+}
+
+.tags__item a:hover {
+  color: #0d6efd;
+}

@@ -1,0 +1,24 @@
+.main__box {
+    margin: 0;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main__content {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-main {
+    width: 200px;
+    height: 50px;
+    border: none;
+    box-shadow: 0px 0px 5px;
+}
+
+.main__title {
+    text-align: center;
+    margin-bottom: 50px;
+    text-shadow: 0px 2px 10px grey;
+}

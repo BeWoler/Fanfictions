@@ -1,0 +1,1 @@
+export const API_URL = 'https://fanfic-node-server.herokuapp.com/'

@@ -1,0 +1,21 @@
+.comments__form {
+  margin: 40px 0 20px auto;
+  max-width: 500px;
+  max-height: 150px;
+  position: relative;
+  text-align: right;
+}
+
+.comments__form .form-control {
+  max-width: 500px;
+  max-height: 150px;
+  margin: 0px 0px 30px 0px;
+}
+
+.comments__form button {
+  right: 0;
+}
+
+.comments__text {
+  word-wrap: break-word;
+}

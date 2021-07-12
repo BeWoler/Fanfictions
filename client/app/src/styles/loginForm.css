@@ -1,0 +1,38 @@
+.signIn_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    margin-bottom: 70%;
+}
+
+.signIn_box h3 {
+    margin-bottom: 50px;
+}
+
+.signIn_form label {
+    font-weight: bold;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.signIn_form input {
+    width: 300px;
+    height: 35px;
+}
+
+.login-btn {
+    margin-top: 30px;
+    width: 100%;
+    height: 30px;
+    background-color: transparent;
+    border: none;
+    box-shadow: 0px 0px 5px;
+}
+
+.loginMessage {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}

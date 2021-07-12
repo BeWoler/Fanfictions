@@ -1,0 +1,25 @@
+.signIn {
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+    transition-duration: .3s;
+}
+
+.signUp {
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+    transition-duration: .3s;
+    margin-left: 20px;
+}
+
+.signIn:hover {
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+}
+.signUp:hover {
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+}

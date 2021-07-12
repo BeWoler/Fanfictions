@@ -1,0 +1,25 @@
+.userBar__box a {
+  display: flex;
+  align-items: center;
+}
+
+.user__email {
+  font-size: 20px;
+  color: #000000;
+  text-decoration: none;
+  margin: 0;
+  transition-duration: .2s;
+  border-radius: 10px;
+  padding: 0px 5px;
+}
+
+.user__email:hover {
+  box-shadow: 0px 0px 5px;
+  background-color: #EFEFEF; 
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}

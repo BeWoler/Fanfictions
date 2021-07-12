@@ -1,0 +1,54 @@
+.fanfic__create__box {
+  margin: 20px auto;
+}
+
+.fanfic__h2 {
+  margin-bottom: 40px;
+}
+
+.fanfic__create__form {
+  max-width: 1000px;
+  min-width: 800px;
+  padding: 20px;
+  box-shadow: 0px 0px 5px;
+  margin-bottom: 100px;
+}
+
+.fanfic__crete__div {
+  margin-bottom: 30px !important;
+}
+
+.form-label {
+  margin-top: 10px !important;
+}
+
+.btn-primary {
+  margin-top: 20px;
+}
+
+@media all and (max-width: 825px) {
+  .fanfic__create__form {
+    min-width: 400px;
+  }
+}
+
+@media all and (max-width: 400px) {
+  .fanfic__create__form {
+    min-width: 200px;
+  }
+
+  .fanfic__create__div {
+    flex-direction: column;
+  }
+
+  .form-control {
+    width: 100% !important;
+    margin-bottom: 10px;
+    margin-left: 0;
+  }
+
+  .fanfic__h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}
